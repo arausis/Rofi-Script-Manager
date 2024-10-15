@@ -1,0 +1,10 @@
+#! /bin/sh
+
+user_input=$(zenity --entry --title="Snipping " --text="Enter name for .png file:")
+
+# Check if the user canceled or closed the dialog
+if [ $? -eq 0 ]; then
+	shutter -s  -o "~/Pictures/$user_input.png"
+else
+	shutter -s
+fi

@@ -1,0 +1,9 @@
+https://chat.openai.com | gpt
+https://calendar.google.com/calendar/u/0/r/week | calender
+https://trello.com/b/Ub1gQUgh/workflow | trello
+https://canvas.calpoly.edu/calendar | canvas 
+https://duckduckgo.com/chrome_newtab| chrome
+https://physicscloud.net/web/142 | physics
+https://www.desmos.com/calculator | desmos
+https://forms.gle/qVjEfw8dxZQ7xRAf6 | ddaily_data
+https://virtualvacation.us/guess | cities

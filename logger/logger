@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Define a unique title for the terminal
+WINDOW_TITLE="logger_$(date +%s)"
+
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+echo "$DIR"
+
+# Launch the terminal with the specified title and run the command
+gnome-terminal --title="$WINDOW_TITLE" -- bash -c "/usr/bin/python3 $DIR/logger.py $WINDOW_TITLE" &
+
