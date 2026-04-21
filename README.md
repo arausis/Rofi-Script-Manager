@@ -9,6 +9,8 @@ qualculate is only required for the calculate script
 
 This project is by no means meant to be a fully bundled application, it is just a personal efficiency script that I want to share with a few like-minded friends.
 
-You might want to add the logger bash script to your startup, and the script will run seamlessly
+You might want to add the logger bash script to your startup, and the script will run seamlessly.
+
+**NOTE: This script only ran on X11 based systems, and has now been OBS'd. The run menu (without the logger) can be used in Sway to achieve a similar affect**
 
 [[Demo]](https://www.youtube.com/embed/GfpqhAMpxkI?si=UbtgFxvPUiejD3RV)
